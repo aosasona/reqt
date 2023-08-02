@@ -1,0 +1,15 @@
+{
+  "name": "@trulyao/reqt",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "repository": "https://github.com/aosasona/reqt",
+  "author": "Ayodeji O",
+  "license": "MIT",
+  "dependencies": {
+    "apisauce": "^3.0.1",
+    "react": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.18"
+  }
+}
